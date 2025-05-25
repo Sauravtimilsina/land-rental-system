@@ -1,0 +1,14 @@
+102, Kamal Pokhari, East, 5, 60000, Available
+103, Baneshor, South, 10, 100000, Available
+104, Purano Baneshor, West, 3, 45000, Available
+105, Gaushala, North, 6, 70000, Available
+106, Sinamangal, East, 8, 85000, Available
+107, Budanilakantha, South, 7, 75000, Available
+108, Maharajganj, West, 2, 30000, Available
+109, Kalanki, North, 9, 90000,  Available
+110, Chabel, East, 5, 55000,  Available
+111, Dakshin Kali, West, 4, 50000, Available
+112, Tinkune, South, 6, 65000,  Available
+113, Pepsi Kola, North, 7, 80000, Available
+114, Anamnagar, East, 3, 45000, Available
+115, Soyambhu, South, 8, 85000, Available
